@@ -1,0 +1,70 @@
+h1 {
+    padding: 50px;
+    text-align: center;
+    background-color: #0c0e27;
+    color: #e86011;
+    font-family: 'Roboto', sans-serif;
+}
+
+.content {
+    font-family: 'Roboto', sans-serif;
+}
+
+.icons {
+    text-align: center;
+}
+
+.large-4 {
+    display: inline;
+    padding-top: 100px;
+    padding: 71px;
+    background-color: #524B58;
+
+}
+
+.row {
+    padding-top: 50px
+}
+
+.profile {
+    text-align: center;
+    color: #fff;
+    margin-left: 490px;
+}
+
+#page {
+    max-width: 100%;
+    min-height: 100%;
+    background-image: url(assets/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin: 0, auto;
+    position: relative;
+    background-position: top center;
+    background-attachment: fixed;
+    min-height: 700px;
+    padding-right: 316px;
+    padding-left: 317px;
+}
+
+.button {
+    background-color: #524B58;
+    text-align: center;
+    border-radius: 40px;
+    color: #e86011;
+    width: 20%;
+    margin-top: 100px;
+    margin-left: 260px;
+}
+
+.small-4 {
+    display: inline-block;
+    text-align: center;
+    margin-left: 30px;
+    color: #fff;
+}
+
+
+body{
+    background-color: black;
+}
